@@ -17,8 +17,8 @@ Actualmente tengo conocimiento en R, R Markdown, Python, SQL, HTML y CSS
 👀 mis intereses se concentran en análisis e interpretación de bases de datos, principalmente de temas de las ciencias sociales. 
 
 📫 Contactame: 
-- LinkedIn: https://www.linkedin.com/in/javiera-venegas-hidalgo-93626a1b6/
-- Twitter: @javieravenegash
-- Gmail: jaaviera.venegas@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/javiera-venegas-hidalgo-93626a1b6/)
+- [Twitter](https://twitter.com/javieravenegash)
+- jaaviera.venegas@gmail.com
 
 XOXO! 💞️
