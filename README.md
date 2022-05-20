@@ -19,5 +19,6 @@ Actualmente tengo conocimiento en R, R Markdown, Python, SQL, HTML y CSS
 - [LinkedIn](https://www.linkedin.com/in/javiera-venegas-hidalgo-93626a1b6/)
 - [Twitter](https://twitter.com/javieravenegash)
 - jaaviera.venegas@gmail.com
+- [Mi Portafolio](https://jaavieravenegas.wixsite.com/my-site)
 
 XOXO! 💞️
